@@ -4,7 +4,7 @@
 •	Included:
 	An input field for entering tasks.
 	An “Add” button.
-	A container (<ul>) to hold task items.
+	A container to hold task items.
 
 2. CSS Styling Applied
 •	Styled the app with a clean, modern look.
